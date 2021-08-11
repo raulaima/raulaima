@@ -1,16 +1,6 @@
 ### Hi there 👋
-
-<!--
-**raulaima/raulaima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on software
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: mail! raima@uwaterloo.ca
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
--->
+I'm a passionate software enthusiast chemical engineering student at the University of Waterloo!
+- I'm currently woeking on my C++ software skills
+- I love to learn about AI and software development frameworks
+- Ask me anything about Tech!
+- Fun Fact: I am a huge Toronto Raptors fan 
